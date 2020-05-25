@@ -1,13 +1,14 @@
 # GatewayAutomation
 
-Recently with the [Data Gateway Automation](https://powerbi.microsoft.com/en-us/blog/announcing-automation-of-data-gateway-installationpublic-preview/) feature. We can now Sliently install and configure Data Gateway using Powershell.
+Recently with the release of [Data Gateway Automation](https://powerbi.microsoft.com/en-us/blog/announcing-automation-of-data-gateway-installationpublic-preview/) feature. We can now Sliently install and configure Data Gateway using Powershell.
 
-> Note: This is still a public preview feature. There will be a Lots of improvements and features will be added when this becomes GA
+> Note: This is still under a **public preview feature**. There will be a lots of improvements and features will be added when this becomes GA.
 
+This repo contains a simple Powershell Script used to Install and configure the DataGateway
 
 ![](https://powerbiblogscdn.azureedge.net/wp-content/uploads/2020/05/SilentInstall-1024x254.png)
 
-This repo contains a simple Powershell Script used to Install and configure the DataGateway
+
 
 
 
