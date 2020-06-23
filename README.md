@@ -19,6 +19,7 @@ This repo contains a simple Powershell Script used to Install and configure the 
 ## Limitation (As of May 2020)
 
 - Only Powershell Version 7 and above is supported.
-- You couldn't able to create new data source .
+- You couldn't able to create new data source if you use SPN.
 - You couldn't upgrade a gateway ,right now the powershell script is only applicable for installing DataGateway.
 - Adding Gateway Members to newly created cluster is not supported yet.
+- Adding SPN as Admin to an Existing Gateway is not supported
